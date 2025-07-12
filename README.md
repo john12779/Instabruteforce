@@ -42,12 +42,12 @@ pipenv install
 ## Help
 
 ```
-usage: instagram.py [-h] [-u USERNAME] [-p PASSLIST] [-px PROXYLIST] [--prune PRUNE] [--stats] [-nc] [-m MODE]
+usage: instagram.py [-h] [-u jatinrock128] [-p PASSLIST] [-px PROXYLIST] [--prune PRUNE] [--stats] [-nc] [-m MODE]
 
 optional arguments:
   -h, --help            show this help message and exit
-  -u USERNAME, --username USERNAME
-                        email or username
+  -u jatinrock128
+                     jatinrock128
   -p PASSLIST, --passlist PASSLIST
                         password list
   -px PROXYLIST, --proxylist PROXYLIST
@@ -126,14 +126,13 @@ python instagram.py -u <username> -p <passlist>
 
 ```
 [-] Wordlist: passlist.txt
-[-] Username: Sami09.1
-[-] Password: Sami123
+[-] Username: jatinrock128
 [-] Complete: 62.67%
 [-] Attempts: 314
 [-] Browsers: 185
 [-] Exists: True
 
 [!] Password Found
-[+] Username: Sami09.1
-[+] Password: Sami123
+[+] Username: jatinrock128
+[+] Password:
 ```
